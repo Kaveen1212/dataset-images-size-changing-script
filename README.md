@@ -153,4 +153,6 @@ The script includes error handling for:
 
 ## License
 
-This script is provided as-is for image preprocessing tasks.
+This project is licensed under the Academic Free License 3.0 (AFL-3.0) - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Kaveen C Deshapriya
